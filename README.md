@@ -7,4 +7,5 @@
 <br>
 # 申请
 请先fork
-修改
+修改imdex.html
+在Pull requests提出合并
